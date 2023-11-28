@@ -1,0 +1,6 @@
+Git is a version control system.
+Using git we can collaborate, track changes, revert to source code.
+Linux developer developed GIT in 2005(Linus Torvalds).
+Microsoft owns Github.
+Github is an online hosting service for GIT files
+Using Github we can collaborate with other developers from any location.
